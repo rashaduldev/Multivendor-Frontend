@@ -118,7 +118,7 @@ Contributions are welcome!
 
 ## 📄 License
 
-This project is licensed under the **UNLISENCED** – see the [LICENSE](LICENSE) file for details.
+This project is licensed under the **UNLICENSED** – see the [LICENSE](LICENSE) file for details.
 
 ---
 
