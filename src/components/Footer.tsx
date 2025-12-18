@@ -148,13 +148,13 @@ const Footer: React.FC = () => {
             © {currentYear} MultiPOS. All rights reserved.
           </p>
           <p className="text-slate-400 font-inter text-sm mt-4 md:mt-0">
-            Crafted with ❤️ by{' '}
+            Crafted with by{' '}
             <a
               rel="nofollow"
               target="_blank"
-              href="https://uivibe.me"
+              href="https://rashaduldev01.vercel.app"
               className="text-rose-400 hover:text-rose-300 transition-colors"
-            >uivibe
+            >rashaduldev
             </a>
           </p>
         </div>

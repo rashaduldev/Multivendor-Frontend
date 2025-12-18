@@ -124,9 +124,9 @@ This project is licensed under the **UNLICENSED** – see the [LICENSE](LICENSE)
 
 ## 👨‍💻 Author
 
-**uivibe**
-🔗 [Portfolio](https://uivibe.me)
-🐦 [Twitter](https://twitter.com/uivibe)
-💼 [LinkedIn](https://linkedin.com/in/uivibe)
+**rashaduldev**
+🔗 [Portfolio](https://rashaduldev01.vercel.app)
+🐦 [Twitter](https://twitter.com/rashaduldev)
+💼 [LinkedIn](https://linkedin.com/in/rashaduldev)
 
 ---
